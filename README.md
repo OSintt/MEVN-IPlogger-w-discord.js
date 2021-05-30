@@ -3,9 +3,9 @@
 > IPLogger with dynamic routes created with discord.js using MEVN stack
 
 ## Build Setup
-**First**, config your webhook url in **src/config.js**
-**After that**, config the proxy with your custom domain
-**Then**, create a **.env** file with your mongodb uri
+**First**, config your webhook url in **src/config.js**<br>
+**After that**, config the proxy with your custom domain<br>
+**Then**, create a **.env** file with your mongodb uri<br>
 **Finally**:
 ``` bash
 # start on dev mode with nodemon and webpack 
