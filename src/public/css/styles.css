@@ -1,0 +1,15 @@
+body {
+	background: black !important;
+}
+img {
+	width: 6%;
+	margin-right: 20px;
+}
+button {
+	margin: 50px;
+}
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
